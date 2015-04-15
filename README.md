@@ -1,5 +1,6 @@
 # coursera-modern-art-UI-screencast
-Screencast for the peer asignment
+
+Peer asignment screencast for "Programming Mobile Applications for Android Handheld Systems: Part 1" 
 
 It shows the different features of the app:
 
