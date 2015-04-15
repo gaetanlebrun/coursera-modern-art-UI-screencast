@@ -6,6 +6,7 @@ It shows the different features of the app:
 
 * Creating a random number of rectangles (between 5 and 10) with colors chosen randomely within 15 predefined.
 * Changing the rectangles' color using a seek bar.
+* One rectangle has to stay white all the time.
 * Generating a new pattern via a menu action or via a double tap.
 * Opening a dialog via an action menu.
 * Opening a browser on the Moma website using an Intent.
